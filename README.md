@@ -4,6 +4,13 @@
 ## Status
 Completed. Last update Mar 2015.
 
+## Components used
+1. Arduino Mega 2560
+2. Servo motor
+3. LEDs
+4. 16x2 LCD Display
+5. Misc. components
+
 ## License
 &copy; 2015 Hemant Kuruva
 
